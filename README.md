@@ -6,17 +6,17 @@
 
 #### Data
 
-![Data](/assets/images/issue/today1.png)
+![Data](./assets/images/issue/today1.png)
 
-![Data](/assets/images/issue/today2.png)
+![Data](./assets/images/issue/today2.png)
 
-![Data](/assets/images/issue/today3.png)
+![Data](./assets/images/issue/today3.png)
 
 #### Problems
 
-![Problems](/assets/images/issue/api1.png)
+![Problems](./assets/images/issue/api1.png)
 
-![Problems](/assets/images/issue/api2.png)
+![Problems](./assets/images/issue/api2.png)
 
 #### Solutions
 
