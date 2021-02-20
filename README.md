@@ -6,17 +6,17 @@
 
 #### Data
 
-![Data](./assets/images/issue/today1.png)
+![Data](https://raw.githubusercontent.com/psgstellar/Zilot/analysis/assets/images/issue/today1.PNG)
 
-![Data](./assets/images/issue/today2.png)
+![Data](https://raw.githubusercontent.com/psgstellar/Zilot/analysis/assets/images/issue/today1.PNG)
 
-![Data](./assets/images/issue/today3.png)
+![Data](https://raw.githubusercontent.com/psgstellar/Zilot/analysis/assets/images/issue/today3.PNG)
 
 #### Problems
 
-![Problems](./assets/images/issue/api1.png)
+![Problems](https://raw.githubusercontent.com/psgstellar/Zilot/analysis/assets/images/issue/api1.PNG)
 
-![Problems](./assets/images/issue/api2.png)
+![Problems](https://raw.githubusercontent.com/psgstellar/Zilot/analysis/assets/images/issue/api2.PNG)
 
 #### Solutions
 
